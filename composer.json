@@ -1,5 +1,5 @@
 {
-    "name": "mailchimp/marketing",
+    "name": "whale001/mailchimp-marketing",
     "version": "3.0.22",
     "description": "",
     "keywords": [
@@ -13,7 +13,7 @@
     "authors": [
         {
             "name": "Mailchimp",
-            "homepage": "https://github.com/mailchimp/mailchimp-marketing-php"
+            "homepage": "https://github.com/whale001/mailchimp-marketing-php"
         }
     ],
     "require": {
